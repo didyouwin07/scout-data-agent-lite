@@ -1,0 +1,15 @@
+D:\Soroco\soroco-console-app\bin\Debug\net7.0\soroco-console-app.exe
+D:\Soroco\soroco-console-app\bin\Debug\net7.0\soroco-console-app.deps.json
+D:\Soroco\soroco-console-app\bin\Debug\net7.0\soroco-console-app.runtimeconfig.json
+D:\Soroco\soroco-console-app\bin\Debug\net7.0\soroco-console-app.dll
+D:\Soroco\soroco-console-app\bin\Debug\net7.0\soroco-console-app.pdb
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.csproj.AssemblyReference.cache
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.AssemblyInfoInputs.cache
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.AssemblyInfo.cs
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.csproj.CoreCompileInputs.cache
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.dll
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\refint\soroco-console-app.dll
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.pdb
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\soroco-console-app.genruntimeconfig.cache
+D:\Soroco\soroco-console-app\obj\Debug\net7.0\ref\soroco-console-app.dll
